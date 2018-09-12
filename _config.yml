@@ -12,9 +12,11 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+
+# 나중에 이력서 쓰려면 주석해제하고 쓰면됨
+# resume: true
+# resume-external: true
+# resume-url: https://google.com/?q=my+resume
 
 url: https://hanyonghee9264.github.io
 # your url: http://USERNAME.github.io
@@ -34,24 +36,24 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: https://www.facebook.com/profile.php?id=100005064452484
+# twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/hanyonghee9264
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: hanyonghee9264@gmail.com
 
 authors:
     yonghee:
