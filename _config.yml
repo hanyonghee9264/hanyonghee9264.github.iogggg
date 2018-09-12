@@ -36,7 +36,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: 'https://www.facebook.com/profile.php?id=100005064452484'
+facebook: hanyonghee9264
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -44,7 +44,7 @@ facebook: 'https://www.facebook.com/profile.php?id=100005064452484'
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: 'https://github.com/hanyonghee9264'
+github: hanyonghee9264
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
