@@ -5,6 +5,13 @@ date: 2018-10-04 02:27
 category: blog
 author: Yonghee
 ---
+---
+title: "SQL Tutorial 정리(~ SQL Exists)"
+layout: post
+date: 2018-10-04 02:27
+category: blog
+author: Yonghee
+---
 ## w3school SQL Tutorial
 https://www.w3schools.com/ 사이트에 sql `튜토리얼 내용(~ SQL Exists)`을 번역하여 정리한 내용입니다.
 
@@ -57,7 +64,6 @@ https://www.w3schools.com/ 사이트에 sql `튜토리얼 내용(~ SQL Exists)`�
   2             Ana Trujillo Empa..     Ana Trujillo   Avda. de la..      Mexico D.F.    05021         Mexico
   ...more
   ```
-
 - 모든 테이블 은 `필드` 라는 더 작은 엔티티로 나뉜다. **Customers** 테이블의 `필드`는 **CustomerID, CustomerName, ContactName, Address, City, PostalCode, Country** 구성되어 있다. `필드`는 테이블의 모든 레코드에 대한 특정 정보를 유지하고 관리하도록 설계된 `테이블의 열`이다. 열(이 또한 레코드)은 테이블 안에서 `개별적인 항목으로 존재`한다. 위 91개의 레코드를 가진 **Customers** 테이블을 예를 들어보자. `테이블의 수평(가로)` 엔티티는 `레코드`다. `테이블의 수직(세로)` 엔티티인 column열은 테이블의 `특정 필드와 연관된 정보`를 갖고 있다.
 ---
 
